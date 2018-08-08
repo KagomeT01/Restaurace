@@ -16,6 +16,7 @@ h1 {
 #page {
     width: 750px;
     margin: 0 auto;
+    padding-bottom: 5px;
     background-color: #e4e4e4;
 }
 
@@ -67,14 +68,14 @@ p {
     padding: 10px 10px 10px 20px;
     margin: 20px;
     background-color: #045757;
-    border: solid #222222
+    border: solid #222222;
+    font-size: 20px;
+    font-family: "Century Gothic";
 }
 
 .zapati li {
-    font-family: "Century Gothic";
     list-style-type: none;
     display: inline;
-    font-size: 30px;
     padding-right: 20px;
 }
 .zapati a{
