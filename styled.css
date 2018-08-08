@@ -1,0 +1,18 @@
+* {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 1px;
+}
+
+#page {
+    width: 700px;
+    margin: 0 auto;
+    background-color: lightskyblue;
+}
+body{
+    text-align: center;
+}
+.menu li {
+    display: inline;
+    list-style-type: none;
+}
