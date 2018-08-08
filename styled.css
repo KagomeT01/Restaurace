@@ -9,10 +9,9 @@
     margin: 0 auto;
     background-color: lightskyblue;
 }
-body{
-    text-align: center;
-}
+
 .menu li {
     display: inline;
     list-style-type: none;
+
 }
