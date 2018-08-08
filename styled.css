@@ -22,8 +22,7 @@ h1{
     font-size: 23px;
 }
 .menu{
-    background-color: #045757;
-    border: solid #222222;
+    border: solid #044343;
 
 }
 img{
@@ -32,7 +31,7 @@ img{
     margin: 0 auto;
 }
 a{
-    color: #e4e4e4;
+    color: #222222;
 }
 
 a:hover{
