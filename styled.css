@@ -1,46 +1,82 @@
 * {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 0;
+
+}
+
+body {
+    background-color: #044343;
     padding-bottom: 10px;
 }
-body{
-    background-color:#044343;
+
+h1 {
+    font-family: "Century Gothic";
+    font-size: 60px;
 }
-h1{
-    font-family:"Kalinga";
-    font-size:60px;
-}
+
 #page {
     width: 750px;
-    margin:0 auto;
-    background-color:#e4e4e4;
+    margin: 0 auto;
+    background-color: #e4e4e4;
 }
 
 .menu li {
     display: inline;
     list-style-type: none;
     font-size: 23px;
+    padding-right: 12px;
 }
-.menu{
-    border: solid #044343;
 
+.menu {
+    background-color: #045757;
+    border: solid #222222;
+    padding: 10px 10px 10px 20px;
+    margin: 20px;
+    font-family: "Century Gothic";
 }
-img{
+.menu a {
+    text-decoration: none;
+}
+
+img {
     width: 100%;
     display: block;
     margin: 0 auto;
 }
-a{
-    color: #222222;
+
+a {
+    color: #e4e4e4;
 }
 
-a:hover{
+a:hover {
     color: #bbbbbb;
 }
-h3{
+
+h3 {
     text-align: center;
     text-decoration: underline;
+    font-family: "Century Gothic";
 }
-p{
+
+p {
+    padding: 20px;
     text-align: center;
+    font-family: "Century Gothic";
+}
+
+.zapati {
+    padding: 10px 10px 10px 20px;
+    margin: 20px;
+    background-color: #045757;
+    border: solid #222222
+}
+
+.zapati li {
+    font-family: "Century Gothic";
+    list-style-type: none;
+    display: inline;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.zapati a{
+    text-decoration: none;
 }
