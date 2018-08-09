@@ -94,7 +94,11 @@ p {
 .zapati a{
     text-decoration: none;
 }
-.listek{
+.listek li{
+    font-family: "Century Gothic";
+    padding-left: 20px;
+}
+.listek ul{
     font-family: "Century Gothic";
     padding-left: 20px;
 }
