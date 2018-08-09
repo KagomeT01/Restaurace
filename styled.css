@@ -16,7 +16,6 @@ h1 {
     font-size: 80px;
 }
 
-
 #page {
     width: 750px;
     margin: 0 auto;
@@ -38,7 +37,6 @@ h1 {
     margin: 20px;
     font-family: "Century Gothic";
 }
-
 .menu a {
     text-decoration: none;
 }
@@ -63,12 +61,12 @@ h3 {
     font-family: "Century Gothic";
 }
 
-h2 {
+h2{
     text-align: center;
     font-family: "Century Gothic";
 }
 
-iframe {
+iframe{
     display: block;
     margin: 0 auto;
 }
@@ -93,16 +91,19 @@ p {
     display: inline;
     padding-right: 20px;
 }
-
-.zapati a {
+.zapati a{
     text-decoration: none;
 }
-.listek {
-    padding: 10px 10px 10px 20px;
-    margin: 20px;
-}
-.listek li {
-    list-style-type: none;
+
+form label{
     font-family: "Century Gothic";
-    font-size: 18px;
+    color: white;
+}
+
+form {
+    background-color: #045757;
+    border: solid #222222;
+    width: 40%;
+    margin-left: 30%;
+    padding: 10px;
 }
