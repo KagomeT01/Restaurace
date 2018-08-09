@@ -13,18 +13,28 @@
             <li><a href="index.html">Domů</a></li>
             <li><a href="menu.html">Menu</a></li>
             <li><a href="kontakt.html">Kontakt</a></li>
+            <li><a href="rezervace.html">Rezervace</a></li>
         </ul>
     </div>
     <div>
         <h2>Rezervace</h2>
         <form>
-            Celé jméno:<br>
-            <input type="text" name="name"><br>
-            Datum a čas rezervace:<br>
-            <input type="text" name="lastname"><br>
-            Počet osob:<br>
-            <input type:="text" name="people"><br>
-            <input type="submit" value="Submit">
+            <div>
+                <label for="jmeno">Jméno:</label><br>
+                <input type="text" name="jmeno"><br>
+            </div>
+            <div>
+                <label for="date">Datum a čas rezervace:</label><br>
+                <input type="date" name="date"><br>
+                <br>
+                <input type="time" name="time"><br>
+            </div>
+            <div>
+                <label for="quantity">Počet osob:</label><br>
+                <input type:="number" name="quantity" min="1"><br>
+            </div>
+            <br>
+            <input type="submit" value="Potvrdit">
         </form>
     </div>
 

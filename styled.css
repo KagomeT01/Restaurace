@@ -95,3 +95,15 @@ p {
     text-decoration: none;
 }
 
+form label{
+    font-family: "Century Gothic";
+    color: white;
+}
+
+form {
+    background-color: #045757;
+    border: solid #222222;
+    width: 40%;
+    margin-left: 30%;
+    padding: 10px;
+}
