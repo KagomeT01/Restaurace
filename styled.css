@@ -1,6 +1,6 @@
 * {
     margin: 0;
-
+    font-family: "Century Gothic";
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    font-family: "Century Gothic";
+    /*font-family: "Century Gothic";*/
     font-size: 60px;
     text-align: center;
 
@@ -35,7 +35,7 @@ h1 {
     border: solid #222222;
     padding: 10px 10px 10px 20px;
     margin: 20px;
-    font-family: "Century Gothic";
+    /*font-family: "Century Gothic";*/
 }
 .menu a {
     text-decoration: none;
@@ -58,12 +58,12 @@ a:hover {
 h3 {
     text-align: center;
     text-decoration: underline;
-    font-family: "Century Gothic";
+    /*font-family: "Century Gothic";*/
 }
 
 h2{
     text-align: center;
-    font-family: "Century Gothic";
+    /*font-family: "Century Gothic";*/
 }
 
 iframe{
@@ -74,7 +74,7 @@ iframe{
 p {
     padding: 20px;
     text-align: center;
-    font-family: "Century Gothic";
+    /*font-family: "Century Gothic";*/
 }
 
 .zapati {
@@ -83,7 +83,7 @@ p {
     background-color: #045757;
     border: solid #222222;
     font-size: 15px;
-    font-family: "Century Gothic";
+    /*font-family: "Century Gothic";*/
 }
 
 .zapati li {
@@ -96,7 +96,7 @@ p {
 }
 
 form label{
-    font-family: "Century Gothic";
+    /*font-family: "Century Gothic";*/
     color: white;
 }
 
