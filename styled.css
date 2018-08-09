@@ -14,6 +14,15 @@ h1 {
     font-size: 80px;
 }
 
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+
+h1 a:hover{
+    color: black
+}
+
 #page {
     width: 750px;
     margin: 0 auto;
@@ -36,6 +45,7 @@ h1 {
 }
 .menu a {
     text-decoration: none;
+    color: #e4e4e4;
 }
 
 img {
@@ -44,9 +54,9 @@ img {
     margin: 0 auto;
 }
 
-a {
-    color: #e4e4e4;
-}
+/*a {*/
+    /*color: #e4e4e4;*/
+/*}*/
 
 a:hover {
     color: #bbbbbb;
