@@ -55,9 +55,6 @@ img {
     margin: 0 auto;
 }
 
-/*a {*/
-    /*color: #e4e4e4;*/
-/*}*/
 
 a:hover {
     color: #bbbbbb;
@@ -97,6 +94,10 @@ p {
 }
 .zapati a{
     text-decoration: none;
+    color: #e4e4e4;
+}
+.zapati a:hover{
+    color: #bbbbbb;
 }
 
 form label{
