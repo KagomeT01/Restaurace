@@ -100,4 +100,7 @@ p {
 
 .listek {
     padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    font-family: "Century Gothic";
+    font-size: 20px;
 }
