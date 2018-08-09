@@ -1,8 +1,8 @@
 * {
     margin: 0;
     font-family: "Century Gothic";
-
 }
+
 
 body {
     background-color: #044343;
@@ -12,6 +12,7 @@ body {
 h1 {
     text-align: center;
     font-size: 80px;
+    padding: 10px;
 }
 
 h1 a{
